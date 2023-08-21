@@ -1,3 +1,3 @@
 # svm-in-flights
 
-FUM-Computational-Intelligence-SVM-Model
+FUM Computational Intelligence SVM Model
