@@ -43,9 +43,9 @@ FUM Computational Intelligence SVM Model
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Computational-Intelligence-SVM-Model.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Computational-Intelligence-SVM-Model/blob/master/LICENSE
 
 
 <!-- Linkedin -->
