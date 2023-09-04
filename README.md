@@ -31,9 +31,9 @@ FUM Computational Intelligence SVM Model
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Computational-Intelligence-SVM-Model.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/stargazers
+[stars-url]: https://github.com/javidchaji/FUM-Computational-Intelligence-SVM-Model/stargazers
 
 
 <!-- Issues -->
