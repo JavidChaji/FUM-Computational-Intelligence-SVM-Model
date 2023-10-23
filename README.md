@@ -55,7 +55,7 @@ FUM Computational Intelligence SVM Model
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [![Python][Python.org]][Python-url]
+- [![Python][Python-Shield]][Python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,6 +164,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-[Python.org]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow
+[Python-Shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [Python-url]: https://www.python.org/
 
